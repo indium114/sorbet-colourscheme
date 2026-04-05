@@ -2,37 +2,7 @@
 
 ## Preview
 
-<span style="color: hsl(240, 15%, 20%)">base00</span>
-
-<span style="color: hsl(240, 21%, 23%)">base01</span>
-
-<span style="color: hsl(237, 16%, 23%)">base02</span>
-
-<span style="color: hsl(234, 13%, 23%)">base03</span>
-
-<span style="color: hsl(233, 10%, 23%)">base04</span>
-
-<span style="color: hsl(219, 64%, 88%)">base05</span>
-
-<span style="color: hsl(219, 66%, 81%)">base06</span>
-
-<span style="color: hsl(230, 84%, 81%)">base07</span>
-
-<span style="color: hsl(350, 88%, 81%)">base08</span>
-
-<span style="color: hsl(390, 84%, 81%)">base09</span>
-
-<span style="color: hsl(410, 84%, 81%)">base0A</span>
-
-<span style="color: hsl(80, 84%, 81%)">base0B</span>
-
-<span style="color: hsl(150, 84%, 81%)">base0C</span>
-
-<span style="color: hsl(200, 84%, 81%)">base0D</span>
-
-<span style="color: hsl(260, 84%, 81%)">base0E</span>
-
-<span style="color: hsl(0, 59%, 81%)">base0F</span>
+![sorbet colourscheme in the form of colourful rectangles with labels](assets/preview.png)
 
 ## Colours
 
