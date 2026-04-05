@@ -8,17 +8,17 @@
 
 base00 hsl(240, 15%, 20%) #2b2b3b
 
-base01 hsl(240, 21%, 23%) #2e2e47
+base01 hsl(240, 26%, 16%) #1e1e33
 
-base02 hsl(237, 16%, 23%) #313244
+base02 hsl(237, 16%, 43%) #5c5e7f
 
-base03 hsl(234, 13%, 23%) #333542
+base03 hsl(234, 13%, 43%) #5f627c
 
-base04 hsl(233, 10%, 23%) #353641
+base04 hsl(233, 10%, 43%) #636579
 
-base05 hsl(219, 64%, 88%) #cddbf4
+base05 hsl(300, 42%, 92%) #f3e2f3
 
-base06 hsl(219, 66%, 81%) #afc5ef
+base06 hsl(276, 90%, 81%) #d7a3fa
 
 base07 hsl(230, 84%, 81%) #a6b3f7
 
