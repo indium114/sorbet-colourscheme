@@ -21,7 +21,7 @@ if vim.g.colors_name then
 end
 
 vim.opt.termguicolors = true
-vim.g.colors_name = "kitty_pastel"
+vim.g.colors_name = "sorbet"
 
 local groups = {
     Normal          = { fg = colors.fg, bg = colors.bg },
