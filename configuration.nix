@@ -17,3 +17,10 @@
     base0e = "c1a6f7";
     base0f = "d7a3fa";
   };
+
+  stylix.cursor = {
+    package = pkgs.bibata-cursors;
+    name = "Bibata-Modern-Classic";
+    size = 24;
+  };
+}
